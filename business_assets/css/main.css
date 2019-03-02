@@ -2130,7 +2130,7 @@ input[type="text"] {
 	form input[type="email"],
 	form input[type="password"],
 	form select {
-		line-height: 3em;
+		line-height: 2.5em;
 		padding: 0 1em;
 	}
 
@@ -2469,7 +2469,7 @@ input[type="text"] {
 		background-image: url("images/pic.jpeg"), url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
-		background-size: auto, auto, cover;
+		background-size: cover, auto, auto;
 		z-index: 1;
 	}
 
@@ -2496,7 +2496,7 @@ input[type="text"] {
 				font-family: 'Helvetica', sans-serif;
 				font-weight: 600;
 
-				color: #575d59;
+				color: #9a9a9a;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
 			}
