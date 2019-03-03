@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		
+
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2559,10 +2559,6 @@ input[type="text"] {
 		#footer h2.major {
 			margin: 0 0 1.5em 0;
 		}
-
-			#footer h2.major span {
-				background: #f2f5f3;
-			}
 
 /* Copyright */
 
